@@ -37,10 +37,7 @@ Ensure you implement or connect the API logic in app.js (e.g., using Jikan API f
 
 Type an anime name in the input box and click "Search" to see results.
 
-✨ Screenshots
-You can include screenshots here by dragging images into your repository and linking them like:
-
-YOUTUBE CHANEL:https://youtu.be/zf4NJ_NbdxY
+YOUTUBE CHANEL:https://youtu.be/zf4NJ_NbdxY?si=WWjZiCncUdoh5gS3
 
 markdown
 Копировать
