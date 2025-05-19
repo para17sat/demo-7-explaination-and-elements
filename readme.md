@@ -1,5 +1,5 @@
 Anime Search App
-
+https://para17sat.github.io/demo-7-explaination-and-elements/
 @PARA17SATTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 
 This is a simple web-based Anime Search application that allows users to search for anime titles and display results in a clean, styled format. It uses HTML, CSS, and JavaScript (with an external JS file assumed to be app.js).
